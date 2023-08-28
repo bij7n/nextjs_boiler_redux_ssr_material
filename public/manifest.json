@@ -1,0 +1,28 @@
+{
+  "name": "پینورست",
+  "short_name": "پینورست",
+  "description": "توضیحات",
+  "dir": "auto",
+  "lang": "fa-IR",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "/",
+  "background_color": "#eb3a64",
+  "theme_color": "#eb3a64",
+  "gcm_sender_id": "103953800507",
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.pinorest.ali",
+      "url": "https://example.com"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/next.svg",
+      "sizes": "36x36",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
